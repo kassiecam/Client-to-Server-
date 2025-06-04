@@ -1,3 +1,10 @@
+React app with SQL server back-end database. 
+CRUD is being implemented for front-end to back-end data persistence. 
+Once the server is started, client can interact with the front-end localhost and display logs on the terminal. 
+
+******************************************************************************************************************************************
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
